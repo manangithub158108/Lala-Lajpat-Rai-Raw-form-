@@ -1,0 +1,35 @@
+body{
+    background-color: #111d5e;
+    color: #ffbd69;
+}
+.Intro{
+    background-color: #c70039;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Image{
+    display: flex;
+    justify-content: center;
+}
+img{
+    border-radius: 40px;
+}
+.Text{
+    display: flex;
+    justify-content: center;
+}
+.Body1{
+    border-radius: 40px;
+    background-color: #c70039;
+    color: #ffbd69;
+}
+button{
+    background-color: #f37121;
+    color: #ffbd69;
+}
+.Img1{
+    display: flex;
+    justify-content: space-around;
+}
